@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1>Hi there! I'm Maks.</h1>
     <h3>FrontEnd Developer from Moscow. </h3>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=default)
+    {![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=default)}
 </div>
 <!--
 **czenturion/czenturion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
