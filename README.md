@@ -5,7 +5,7 @@
     <h3>Get in contact:</h3>
     <div id="socials">
         <a href="https://t.me/czenturion" target="blank"> 
-            TELEGRAM
+            <img src="./img/telegram.png" width="50">
         </a>
     </div>
     <br>
