@@ -4,8 +4,8 @@
     <br>
     <h3>Get in contact:</h3>
     <div id="socials">
-        <a href="https://t.me/czenturion" target="blank"> 
-            <img src="./img/telegram.png" width="50">
+        <a href="https://t.me/czenturion" target="_blank"> 
+            <img src="./img/telegram.png" width="50" target>
         </a>
     </div>
     <br>
