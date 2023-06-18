@@ -4,6 +4,8 @@
 
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=default)
+
 <!--
 **czenturion/czenturion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
