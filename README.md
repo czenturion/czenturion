@@ -4,7 +4,7 @@
     <br>
     <h3>Get in contact:</h3>
     <div id="socials">
-        <a href="https://t.me/czenturion">
+        <a href="https://t.me/czenturion" target="blank">
             <img src="https://github.com/czenturion/czenturion/assets/48210968/e1e65b2e-fe03-4542-b3a2-55d65463342c" width="50" alt="Telegram icon" title="Telegram"/>
         </a>
     </div>
