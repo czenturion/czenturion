@@ -24,5 +24,6 @@
     <br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=apprentice" alt="GitHub Profile Summary Card">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=czenturion&theme=apprentice" alt="Languages rating"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czenturion&theme=apprentice" alt="Language repos">
     <br>
 </div>
