@@ -19,6 +19,9 @@
         <img src="https://github.com/czenturion/czenturion/assets/48210968/ec324bbd-6f61-42f0-921d-a3194afc495f" width="50" alt="React icon" title="React"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/62aa4455-02a4-4252-95c3-07c85ad37cf6" width="50" alt="Redux icon" title="Redux"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/1ff279c9-e96b-471c-83ca-8e40a46d061c" width="50" alt="Npm icon" title="Npm"/>
+        <img src="https://github.com/czenturion/czenturion/assets/48210968/258f3d7f-06e8-4ab0-ac8a-341dd78ac921" width="50" alt="SASS icon" title="SASS"/>
+        <img src="https://github.com/czenturion/czenturion/assets/48210968/28a8707b-56c8-474b-8bd5-1a0d4bd8026d" width="50" alt="LESS icon" title="LESS"/>
+        <img src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" width="50" alt="Antd icon" title="Antd"/>
     </div> 
     <br>
     <br>
