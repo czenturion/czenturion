@@ -18,6 +18,7 @@
         <img src="https://github.com/czenturion/czenturion/assets/48210968/8338bd48-cb86-43eb-8373-bda4d83e2da9" width="50" alt="CSS icon" title="CSS"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/ec324bbd-6f61-42f0-921d-a3194afc495f" width="50" alt="React icon" title="React"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/62aa4455-02a4-4252-95c3-07c85ad37cf6" width="50" alt="Redux icon" title="Redux"/>
+        <img src="https://github.com/czenturion/czenturion/assets/48210968/c4d4d07e-062f-4cae-a7d1-7f8e10d6e0dd" width="50" alt="NodeJS icon" title="NodeJS"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/1ff279c9-e96b-471c-83ca-8e40a46d061c" width="50" alt="Npm icon" title="Npm"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/258f3d7f-06e8-4ab0-ac8a-341dd78ac921" width="50" alt="SASS icon" title="SASS"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/28a8707b-56c8-474b-8bd5-1a0d4bd8026d" width="50" alt="LESS icon" title="LESS"/>
@@ -30,3 +31,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czenturion&theme=apprentice" alt="Language repos">
     <br>
 </div>
+
