@@ -3,13 +3,17 @@
     <h3>FrontEnd Developer from Moscow.</h3>
     <br>
     <h3>Get in contact:</h3>
+    <br>
     <div id="socials">
         <a href="https://t.me/czenturion" target="blank"> 
             <img src="./img/telegram.png" width="50">
         </a>
     </div>
-    <br>
     <h3>Technology stack:</h3>
+    <br>
+    <img src="https://www.codewars.com/users/czntrn/badges/large" alt="JS" title="JS lvl on Codewars"/>
+    <br>
+    <br>
     <br>
     <div>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/b13c3063-df61-416f-9191-843c283c9a16" width="50" alt="JS icon" title="JavaScript"/>
