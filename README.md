@@ -12,7 +12,6 @@
     <h3>Technology stack:</h3>
     <br>
     <br>
-    <br>
     <div>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/b13c3063-df61-416f-9191-843c283c9a16" width="50" alt="JS icon" title="JavaScript"/>
         <img src="https://github.com/czenturion/czenturion/assets/48210968/e20ca513-360c-4c85-8aaf-cdf4e29daba0" width="50" alt="TS icon" title="TypeScript"/>
