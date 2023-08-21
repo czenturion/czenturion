@@ -11,8 +11,6 @@
     </div>
     <h3>Technology stack:</h3>
     <br>
-    <img src="https://www.codewars.com/users/czntrn/badges/large" alt="JS" title="JS lvl on Codewars"/>
-    <br>
     <br>
     <br>
     <div>
