@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there! I'm Maks.</h1>
     <h3>FrontEnd Developer from Moscow.</h3>
-    <br>
     <h3>Get in contact:</h3>
     <br>
     <div id="socials">
@@ -27,8 +26,6 @@
     <br>
     <br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=apprentice" alt="GitHub Profile Summary Card">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=czenturion&theme=apprentice" alt="Languages rating"> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czenturion&theme=apprentice" alt="Language repos">
     <br>
 </div>
 
