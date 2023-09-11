@@ -25,7 +25,7 @@
     </div> 
     <br>
     <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=apprentice" alt="GitHub Profile Summary Card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=default" alt="GitHub Profile Summary Card">
     <br>
 </div>
 
