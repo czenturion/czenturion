@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there! I'm Maks.</h1>
+    <img src="./img/matrix-name.gif" width="100%">
     <h3>FrontEnd Developer from Moscow.</h3>
     <h3>Get in contact:</h3>
     <br>
