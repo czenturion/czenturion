@@ -1,33 +1,27 @@
-<div id="header" align="center">
-    <img src="./img/matrix-name.gif" width="100%">
-    <h3>FrontEnd Developer from Astana.</h3>
-    <h3>Get in contact:</h3>
-    <br>
-    <div id="socials">
-        <a href="https://t.me/czenturion" target="blank"> 
-            <img src="./img/telegram.png" width="50">
-        </a>
-    </div>
-    <h3>Technology stack:</h3>
-    <br>
-    <div>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236859/js-icon-md.png" width="50" alt="JS icon" title="JavaScript"/></a>
-        <a href="https://www.typescriptlang.org/"><img src="https://api.iconify.design/devicon-plain/typescript.svg" width="50" alt="TS icon" title="TypeScript"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/czenturion/czenturion/assets/48210968/c3a7256e-2b00-45c4-89fc-e20eecfb44b0" width="50" alt="HTML icon" title="HTML"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/czenturion/czenturion/assets/48210968/8338bd48-cb86-43eb-8373-bda4d83e2da9" width="50" alt="CSS icon" title="CSS"/></a>
-        <a href="https://react.dev/"><img src="https://github.com/czenturion/czenturion/assets/48210968/ec324bbd-6f61-42f0-921d-a3194afc495f" width="50" alt="React icon" title="React"/></a>
-        <a href="https://redux.js.org/"><img src="https://github.com/czenturion/czenturion/assets/48210968/62aa4455-02a4-4252-95c3-07c85ad37cf6" width="50" alt="Redux icon" title="Redux"/></a>
-        <a href="https://nextjs.org/"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254135/nextjs-icon-md.png" width="80" alt="NextJS icon" title="NextJS"/></a>
-        <a href="https://nodejs.org/en/"><img src="https://github.com/czenturion/czenturion/assets/48210968/c4d4d07e-062f-4cae-a7d1-7f8e10d6e0dd" width="50" alt="NodeJS icon" title="NodeJS"/></a>
-        <a href="https://pnpm.io/"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256744/file-type-light-pnpm-icon-md.png" width="50" alt="Pnpm icon" title="Pnpm"/></a>
-        <a href="https://sass-lang.com/"><img src="https://github.com/czenturion/czenturion/assets/48210968/258f3d7f-06e8-4ab0-ac8a-341dd78ac921" width="50" alt="SASS icon" title="SASS"/></a>
-        <a href="https://lesscss.org/"><img src="https://github.com/czenturion/czenturion/assets/48210968/28a8707b-56c8-474b-8bd5-1a0d4bd8026d" width="50" alt="LESS icon" title="LESS"/></a>
-        <a href="https://ant.design/"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="50" alt="Antd icon" title="Antd"/></a>
-        <a href="https://datasift.github.io/gitflow/IntroducingGitFlow.html"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253809/git-icon-md.png" width="80" alt="Git Flow icon" title="Git Flow"/></a>
-    </div> 
-    <br>
-    <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=github_dark" alt="GitHub Profile Summary Card" width="100%">
-    <br>
-</div>
+<div align="center">
+  <img src="./img/matrix-name.gif" width="100%" alt="Maksim Arefev">
 
+  <h3>Frontend Developer · React, TypeScript · Astana, Kazakhstan</h3>
+
+  <p>
+    I build web apps with React and TypeScript and Telegram bots on Node.js.<br>
+    Background in robotics: microcontrollers, soldering, firmware.
+  </p>
+
+  <p>
+    <a href="https://czenturion.github.io/cv/">Website</a> ·
+    <a href="https://t.me/czenturion">Telegram</a> ·
+    <a href="mailto:czenturijon@gmail.com">Email</a> ·
+    <a href="https://www.linkedin.com/in/czenturion/">LinkedIn</a>
+  </p>
+
+  <h3>Tech stack</h3>
+
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,sass,vite,nodejs,docker,git,arduino" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Sass, Vite, Node.js, Docker, Git, Arduino">
+
+  <p>Also: Zustand, RTK Query, React Hook Form, Zod, shadcn/ui, Radix, Storybook, Jest, Playwright, Telegraf</p>
+
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czenturion&theme=github_dark" alt="GitHub profile summary" width="100%">
+</div>
